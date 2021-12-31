@@ -1,4 +1,4 @@
-Developmenting software such as game engines, bespoke content creation tools and pipelines, software design and development with multicore/processor architecture, low-level support layers designed for multi-threaded use, drivers, firmware.
+Developing software such as game engines, special content creation tools and pipelines, drivers, firmware. Software design and development with multicore/processor architecture and low-level support layers designed for multi-threaded use.
 
 ## Main Stack
 ![ASM](https://user-images.githubusercontent.com/43295585/132256623-ed0db8a3-a98d-4261-bc27-aa504c21d18d.png)
