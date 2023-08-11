@@ -1,4 +1,6 @@
-Developing software such as game engines, special content creation tools and pipelines, drivers, firmware. Software design and development with multicore/processor architecture and low-level support layers designed for multi-threaded use.
+Software design and development with multicore/processor architecture and low-level support layers designed for multi-threaded use. Main specialization: game engines(HAL + Core), drivers, firmware, special low-lvl software and pipelines.
+
+Current research in CS: *memory management*, *CPU pipeline*.
 
 ## Main Stack
 ![ASM](https://user-images.githubusercontent.com/43295585/132256623-ed0db8a3-a98d-4261-bc27-aa504c21d18d.png)
@@ -10,3 +12,4 @@ Developing software such as game engines, special content creation tools and pip
 ## Game modding
 ![gta5](https://user-images.githubusercontent.com/43295585/132256757-0adf9dab-0643-4ca7-bd22-a9ccbf2508b8.png)
 ![ck3](https://user-images.githubusercontent.com/43295585/132256761-8a7dbabc-431b-445f-a9ce-3ebcd1f29e34.png)
+![ets2](https://github.com/AmeliePick/AmeliePick/assets/43295585/6aff09a3-3430-4828-a4d2-b2cc2d944519)
